@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Giannis
 - 👀 I’m interested in Databases
-- 🌱 I’m currently learning Node.JS - Express.JS
+- 🌱 I’m currently learning React and Front-end development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
